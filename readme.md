@@ -1,4 +1,4 @@
-Bootstrap Admin Theme
+Bootstrap Admin Theme [![Build Status](https://travis-ci.org/VinceG/Bootstrap-Admin-Theme.png?branch=master)](https://travis-ci.org/VinceG/Bootstrap-Admin-Theme)
 =====================
 
 A generic admin theme built with Bootstrap free for both personal and commercial use. 
@@ -9,9 +9,12 @@ Pages:
 
 - Login
 - Admin Dashboard (Tables, Statistics, Chart, Media Gallery)
-- Full Calendar
-- Statistics (Multiple examples of Pie, Bar, Line charts)
+- Full Calendar (Viewing calendar, adding events, dragging events)
+- Statistics & Charts (Multiple examples of Pie, Bar, Line charts using Morris.js, knob.js, jquery flot, easypiechart)
 - Buttons & Icons
+- WYSIWYG & HTML 5 Editors
+- Forms & Wizard
+- Tables & Bootstrap dataTables
 - UI & Interface Elements (Modals, Popovers, Tooltips, Alerts, Notifications, Labels, Progress Bars)
 
 Demo:
